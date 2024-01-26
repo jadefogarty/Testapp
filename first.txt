@@ -1,0 +1,10 @@
+This is my first file
+
+Git and GitHub tutorial week 1
+
+git init
+git add .
+git commit
+git status
+git log
+git config
